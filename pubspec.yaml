@@ -1,0 +1,24 @@
+name: madrasa_online
+description: Madrasa Online - placeholder app with multiple tabs/screens.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+    - assets/ui_home.png
+    - assets/ui_quran.png
+    - assets/ui_ahadith.png
+    - assets/ui_fatawa.png
+    - assets/ui_awraad.png
+    - assets/ui_treatment.png
+    - assets/ui_others.png

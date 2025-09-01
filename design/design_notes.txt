@@ -1,0 +1,6 @@
+Design notes for Madrasa Online:
+
+- Use green/golden color palette.
+- Fonts: Noto Nastaliq or Noto Sans Urdu for Urdu text.
+- Bottom navigation with main sections.
+- Each section will later contain lists, PDF viewers, and audio players for recitations.
